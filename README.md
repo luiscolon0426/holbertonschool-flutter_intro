@@ -3,17 +3,26 @@
 ## 1. Make sure you are up to date
 
 Before running any commands, make sure your laptop is up to date:
-'sudo apt update'
+
+```
+sudo apt update
+```
 
 ## 2. Install Flutter
 
 You can install Flutter by using the next command:
-'sudo snap install flutter --classic'.
+
+```
+sudo snap install flutter --classic
+```
 
 ## 3. Display Flutter SDK PATH
 
 One you install the snap, use the following command to display your Flutter SDK path:
-'flutter sdk-path'
+
+```
+flutter sdk-path
+```
 
 ## 3. Check dependencies
 
@@ -29,4 +38,6 @@ This command checks your environment and displays a report to the terminal windo
 
 if the previous steps dont work, follow this steps:
 
-'https://linuxhint.com/install-android-studio-linux-mint-and-ubuntu/'
+```
+https://linuxhint.com/install-android-studio-linux-mint-and-ubuntu/
+```
